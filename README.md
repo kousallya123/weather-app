@@ -5,27 +5,31 @@
 
 This is a responsive weather application that allows users to search for a city and view its current weather conditions. The app provides features such as unit conversion (Celsius/Fahrenheit) and displays recent searches for user convenience.
 
+## Live Demo
+
+Check out the live demo: [Weather App](https://weather-665b2.web.app/)
+
 ## Features
 
-1. User Interface:
+1. **User Interface:**
 
 - Responsive UI suitable for desktop and mobile devices.
 - Search bar for users to input city names.
 - Display of current temperature, weather conditions, and wind speed for the searched city.
 - Toggle for users to switch between Celsius and Fahrenheit units.
 
-2. Weather Data:
+2. **Weather Data:**
 
 - Integration with OpenWeatherMap API to fetch current weather data.
 - Graceful handling of API errors with appropriate error messages.
 
 
-3. Recent Searches:
+3. **Recent Searches:**
 
 - Display of the last five cities searched by the user.
 - Clickable entries for users to quickly revisit past searches.
 
-4. Error Handling and Validation:
+4. **Error Handling and Validation:**
 
 - Robust error handling for API failures or invalid user input.
 - User-friendly experience with clear error messages.
